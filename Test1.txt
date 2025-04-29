@@ -6,3 +6,10 @@
 6	27-Aug-2025	Wednesday	Ganesh chturthi
 7	02-Oct-2025	Thursday	Gandhi jayanti/dussehra
 8	20-Oct-2025	Monday	Diwali (deepavali)1
+
+9	21-Oct-2025	Tuesday	Diwali (deepavali)2
+10	22-Oct-2025	Wednesday	Govardhan pooja
+11	23-Oct-2025	Thursday	Bhai dooj
+12	25-Dec-2025	Thursday	Christmas day
+
+

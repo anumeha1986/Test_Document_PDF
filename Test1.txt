@@ -1,0 +1,8 @@
+1	01-Jan-2025	Wednesday	New year
+2	26-Jan-2025	Sunday	Republic day
+3	14-Mar-2025	Friday	Holi
+4	09-Aug-2025	Saturday	Rakshabandhan
+5	15-Aug-2025	Friday	Independence day
+6	27-Aug-2025	Wednesday	Ganesh chturthi
+7	02-Oct-2025	Thursday	Gandhi jayanti/dussehra
+8	20-Oct-2025	Monday	Diwali (deepavali)1
